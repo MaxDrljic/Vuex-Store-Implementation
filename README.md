@@ -1,4 +1,7 @@
-# vue-vuex-implementation
+# Vue-Vuex-Implementation
+
+Vuex Store architecture implementation. 
+
 
 > A Vue.js project
 
